@@ -1,7 +1,7 @@
 # meter
 Basic meter app with C++, and Qt.
 
-# Description
+# description
 Basic meter app with Qt5 and C++.
 
 # before run program
